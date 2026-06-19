@@ -1,6 +1,6 @@
-nombre = "Ana Karina"
+nombre = "Juanito"
 edad = 30
-ciudad = "Estado de México"
+ciudad = "CDMX"
 te_gusta_la_programacion = True
 
 print(nombre)
